@@ -1,0 +1,110 @@
+﻿
+.a {
+    padding-left: 350px;
+}
+
+.glyphicon-menu-hamburger {
+    font-size: 22pt;
+    font-weight: bolder;
+}
+
+#moveNAV {
+    padding-left: 28px;
+}
+
+#openNAV:hover {
+    background-color: #00ffff;
+}
+
+#search:hover {}
+
+#vyral {
+    font-weight: bolder;
+}
+
+.ab {
+    padding-left: 200px;
+}
+
+.xbx {
+    font-size: 22pt;
+    font-weight: lighter;
+}
+
+#user {
+    padding-top: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: #fae8d1;
+}
+
+@media only screen and (min-width: 765px){
+    #user {
+    padding-top: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 8.5%;
+    right: 9%;
+    height: 50px;
+    background-color: #fae8d1;
+}
+}
+.nm {
+    width: 800px;
+    height: 40px;
+    background-color: papayawhip;
+}
+
+.nm:hover {
+    border: 0.04em solid #00ffff;
+}
+
+#user_name {
+    font-size: 16pt;
+    font-weight: 900;
+}
+
+#sideNav {
+    width: 0;
+    height: 300px;
+    position: fixed;
+    left: 0;
+    z-index: 1;
+    overflow-x: hidden;
+}
+
+
+#icons {
+    height: 560px;
+    width: 200px;
+    position: fixed;
+    right: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.cd {
+    height: 560px;
+    width: 200px;
+}
+
+.cc {
+    font-size: 26pt;
+}
+
+.ca:hover {
+    background-color: papayawhip;
+}
+
+.da:hover {
+    background-color: papayawhip;
+}

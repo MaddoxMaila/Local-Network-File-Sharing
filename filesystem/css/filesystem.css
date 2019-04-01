@@ -1,0 +1,28 @@
+.file-folder-icons{
+	border-radius: 15px;
+	box-shadow: 0 5px 5px 0 #111;
+}
+.table-icons{
+      /*border:.1em solid #111;*/
+      width: 100% !important;
+      height: 100% !important;
+      padding: 2%;
+     }
+     .table-file-folder-icons{
+      width: 100%;
+     }
+     .file-folder-icons{
+       left-padding: 5%;
+       bottom-padding: 4%;
+       top-padding: 4%;
+     }
+     .glyph-icons{
+      font-weight: 700;
+      font-size: 100pt;
+      text-shadow: 0px 3px 3px black;
+     }
+     .tab-icons{
+      padding: 5%;
+      border-radius: 5%;
+      box-shadow: 0px 3px 3px black;
+     }
